@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-04T19:03:58+05:30
+modified: 2024-12-05T00:01:46+05:30
 ---
 
 # Whiteboard
@@ -13,5 +13,4 @@ Austronesia is Formosa/Taiwan area of coastal indochina
 
 ......
 
-
-Cad use in some opensource maya type app learn
+The word aneurysm comes from the ancient Greek word aneurysma, which means "a widening" or "an opening". It is a compound word made up of two roots: ano- meaning "up" and eurys- meaning "wide"
