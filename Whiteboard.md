@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-05T00:59:00+05:30
+modified: 2024-12-05T01:03:13+05:30
 ---
 
 # Whiteboard
@@ -25,3 +25,5 @@ Impact
 Covered the Indian subcontinent in 5 cm (2.0 in) of ash,[1] volcanic winter may have caused a severe human population bottleneck
 Deaths
 (Potentially) almost all of humanity, leaving around 3,000–10,000 humans left on the planet
+
+The volcanic explosivity index (VEI) is a scale used to measure the size of explosive volcanic eruptions. It was devised by Christopher G. Newhall of the United States Geological Survey and Stephen Self in 1982.
