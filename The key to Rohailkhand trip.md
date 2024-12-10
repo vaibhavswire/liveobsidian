@@ -1,9 +1,9 @@
 ---
 created: 2024-12-08T20:45:59+05:30
-modified: 2024-12-10T01:50:20+05:30
+modified: 2024-12-10T19:20:22+05:30
 ---
 
-Qadriyah
+Qadiriiyah
 
 Barkaatiyah and Noshahi join in the area
 Mukhtarariya takes to Sahara areas
