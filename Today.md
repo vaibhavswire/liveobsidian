@@ -1,9 +1,9 @@
 ---
 created: 2024-11-30T21:04:59+05:30
-modified: 2024-12-14T20:19:48+05:30
+modified: 2024-12-15T03:16:32+05:30
 ---
 
-# Today
+# ShTerm
 
 Shui read and space study.
 Uniprot annotation learn
