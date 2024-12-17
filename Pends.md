@@ -1,9 +1,9 @@
 ---
 created: 2024-11-30T21:04:26+05:30
-modified: 2024-12-17T23:12:31+05:30
+modified: 2024-12-17T23:12:51+05:30
 ---
 
-# LTerm
+# lterm
 
 DayWorth
 
