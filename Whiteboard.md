@@ -1,9 +1,9 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-17T03:42:04+05:30
+modified: 2024-12-17T23:12:42+05:30
 ---
 
-# Whiteboard
+# whiteboard
 
 Walking on eggshells
 Laotzu taoismas Liberal. John locke started 1660s no divine right to rule theory that led to enlightenment and other historical and philosophical movements. Tanzimat in Tk reform of jurisprudence. Nahda in West Asia.
