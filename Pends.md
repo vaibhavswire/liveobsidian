@@ -1,6 +1,6 @@
 ---
 created: 2024-11-30T21:04:26+05:30
-modified: 2024-12-04T19:04:14+05:30
+modified: 2024-12-17T23:12:31+05:30
 ---
 
 # LTerm
@@ -9,7 +9,7 @@ DayWorth
 
 Kids
 
-chakku poem recitation and record to Intelli portal 
+Recordings to Intelli portal, gameplay, space for Shui
 
 Request
 
