@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-18T06:19:48+05:30
+modified: 2024-12-18T06:25:13+05:30
 ---
 
 # whiteboard
@@ -31,3 +31,9 @@ The crucial difference between *patḗr and *bʰrā́tēr was therefore one of s
 The *werþaną : *wurðun contrast is likewise explained as due to stress on the root versus stress on the inflectional suffix (leaving the first syllable unstressed). There are also other Vernerian alternations, as illustrated by modern German ziehen 'to draw, pull': Old High German zogōn 'to tug, drag' ← Proto-Germanic *teuhaną : *tugōną ← Pre-Germanic *déwk-o-nom : *duk-éh₂-yo-nom 'lead'.[3]
 
 The change described by Verner's Law also accounts for Proto-Germanic *z as the development of Proto-Indo-European *s in some words. Since this *z changed to *r in the North Germanics and in West Germanic (German, Dutch, English, Frisian), Verner's Law resulted in alternation of *s and *r in some inflectional paradigms, known as grammatischer Wechsel.[5] For example, the Old English verb ceosan 'choose' had the past plural form curon and the past participle (ge)coren. These three forms derived from Proto-Germanic *keusaną : *kuzun ~ *kuzanaz, which again derived from Pre-Germanic *géws-o-nom : *gus-únt ~ *gus-o-nós 'taste, try'. We would have **corn for chosen in Modern English if the consonants of choose and chose had not been morphologically levelled (compare the Dutch kiezen 'to choose' : verkoren 'chosen'). On the other hand, Vernerian *r has not been levelled out in English were ← Proto-Germanic *wēzun, related to English was. Similarly, English lose, though it has the weak form lost, also has the archaic form †lorn (now seen in the compounds forlorn and lovelorn) (compare Dutch verliezen : verloren); in German, on the other hand, the *s has been levelled out both in war 'was' (plural waren 'were') and verlieren 'lose' (participle verloren 'lost').
+
+Ahmad ibn Faris
+
+Middle French is Italian and Latin mixed. Old French leads towards Old Dutch (Low Frankish) and Western Germanics and Northern Italians. Southern French took over most of Northern French by modern times.
+Germanics are about 40. Two shifts, Grimm and Verner law made to Modern High German. French, Frisian, Northern, Jut.
+Baltics mix with Slavics. Old Prussian is Western O Deu.
