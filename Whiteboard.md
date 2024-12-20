@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-18T06:38:51+05:30
+modified: 2024-12-21T00:30:59+05:30
 ---
 
 # whiteboard
@@ -23,3 +23,5 @@ Ahmad ibn Faris
 Middle French is Italian and Latin mixed. Old French leads towards Old Dutch (Low Frankish) and Western Germanics and Northern Italians. Southern French took over most of Northern French by modern times.
 Germanics are about 40. Two shifts, Grimm and Verner law made to Modern High German. French, Frisian, Northern, Jut.
 Baltics mix with Slavics. Old Prussian is Western O Deu.
+
+Fish rots in the head, lucy and the football
