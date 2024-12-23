@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-21T00:30:59+05:30
+modified: 2024-12-24T00:02:29+05:30
 ---
 
 # whiteboard
@@ -25,3 +25,6 @@ Germanics are about 40. Two shifts, Grimm and Verner law made to Modern High Ger
 Baltics mix with Slavics. Old Prussian is Western O Deu.
 
 Fish rots in the head, lucy and the football
+
+Klutziness is a noun that means clumsiness or awkwardness. The related adjective is klutzy, and the noun for a clumsy person is klutz. 
+The word "klutz" comes from the Yiddish word klots, which means "wooden beam". It became part of the English language in the mid-20th century.
