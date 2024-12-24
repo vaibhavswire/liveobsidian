@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-25T00:15:36+05:30
+modified: 2024-12-25T01:00:14+05:30
 ---
 
 # whiteboard
@@ -32,5 +32,6 @@ The word "klutz" comes from the Yiddish word klots, which means "wooden beam". I
 O and n link proteins
 Receptor binding domains of O link protein glycans cause tbe infection
 
+Transmission prevention leading to cardiology isues in sars cov2
 
 https://youtube.com/shorts/S4tLX3kq4Ik?si=0LNI9R2SaxUByfqB
