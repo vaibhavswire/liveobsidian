@@ -1,13 +1,13 @@
 ---
 created: 2024-11-30T21:04:59+05:30
-modified: 2024-12-24T21:51:49+05:30
+modified: 2024-12-24T22:04:50+05:30
 ---
 
 # sterm
 
 Shui read and space study
 Firsttwitch blabber
-Mom sandwiches, mosquito refills, maggie
+Mom sandwiches
 Air purifier fix by self mom room
 
 
