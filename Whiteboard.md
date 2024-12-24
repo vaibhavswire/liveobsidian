@@ -1,6 +1,6 @@
 ---
 created: 2024-12-01T17:00:32+05:30
-modified: 2024-12-24T00:02:29+05:30
+modified: 2024-12-25T00:15:36+05:30
 ---
 
 # whiteboard
@@ -28,3 +28,9 @@ Fish rots in the head, lucy and the football
 
 Klutziness is a noun that means clumsiness or awkwardness. The related adjective is klutzy, and the noun for a clumsy person is klutz. 
 The word "klutz" comes from the Yiddish word klots, which means "wooden beam". It became part of the English language in the mid-20th century.
+
+O and n link proteins
+Receptor binding domains of O link protein glycans cause tbe infection
+
+
+https://youtube.com/shorts/S4tLX3kq4Ik?si=0LNI9R2SaxUByfqB
